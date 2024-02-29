@@ -3,7 +3,7 @@
 <p align="center">🖥️ I'm currently studying but not working unfortunately.  </p>
 
 <div align="center">
- I'm currently studying the following programming languages:  
+ I have already studied and practiced the programming languages below:  
 
 <p>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
- Languages and technologies that I have already studied and practiced.  
+ Languages and technologies that I am studying and practicing.  
 
 <p>
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
