@@ -39,8 +39,8 @@
 
 <p align="center">
   
-<a href="https:/github.com/felpsz54/Felipe-Policarpo-da-Concei-o><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/></a>
-<a href="https://www.linkedin.com/in/felipe-policarpo-6403301a4 target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
+<a href="https:/github.com/felpsz54/Felipe-Policarpo-da-Concei-o><" img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/></a>
+<a href="https://www.linkedin.com/in/felipe-policarpo-6403301a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
 
 </p>
 
